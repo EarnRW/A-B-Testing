@@ -22,4 +22,4 @@ The task is to test if conversion rate increases after using new landing page.
 4. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Blog Post]()
+* [Blog Post](https://medium.com/@rwarunanont/a-b-test-new-landing-page-power-analysis-with-python-f269073dda20)
